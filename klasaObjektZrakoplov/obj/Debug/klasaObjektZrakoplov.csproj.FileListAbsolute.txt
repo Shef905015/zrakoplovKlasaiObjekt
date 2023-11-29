@@ -1,0 +1,3 @@
+C:\Users\ucenik\source\repos\klasaObjektZrakoplov\klasaObjektZrakoplov\obj\Debug\klasaObjektZrakoplov.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\klasaObjektZrakoplov\klasaObjektZrakoplov\obj\Debug\klasaObjektZrakoplov.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\klasaObjektZrakoplov\klasaObjektZrakoplov\obj\Debug\klasaObjektZrakoplov.csproj.CoreCompileInputs.cache
